@@ -1,7 +1,3 @@
----
-title: "Merge Fellas: Italian Brainrot - A Creative Merge Puzzle Game"
-date: "2024-05-05"
----
 
 # Merge Fellas: Italian Brainrot - A Creative Merge Puzzle Game
 
