@@ -1,3 +1,7 @@
+---
+title: "Merge Fellas: Italian Brainrot - A Creative Merge Puzzle Game"
+date: "2024-05-05"
+---
 
 # Merge Fellas: Italian Brainrot - A Creative Merge Puzzle Game
 
@@ -6,6 +10,10 @@ Looking for a creative puzzle game that blends internet memes with Italian eleme
 ## Merge Fellas - Challenge Your Mental Limits
 
 Merge Fellas is an engaging puzzle game designed to challenge players' cognitive abilities. With progressively difficult levels and diverse puzzle types, Merge Fellas keeps your brain active and provides hours of entertainment. The unique merging mechanics of this game create a distinctive gaming experience that will keep you coming back for more.
+
+[![Merge Fellas Gameplay](https://img.youtube.com/vi/iJO-3Z5gc6s/0.jpg)](https://www.youtube.com/shorts/iJO-3Z5gc6s)
+
+*Watch Merge Fellas gameplay in action!*
 
 ## Game Features
 
