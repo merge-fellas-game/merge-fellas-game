@@ -1,8 +1,3 @@
----
-title: "Merge Fellas: Italian Brainrot - A Creative Merge Puzzle Game"
-date: "2024-05-05"
----
-
 # Merge Fellas: Italian Brainrot - A Creative Merge Puzzle Game
 
 Looking for a creative puzzle game that blends internet memes with Italian elements? [Merge Fellas](https://mergefellas.com) offers an unprecedented merging game experience! This unique puzzle game combines the "Italian Brainrot" phenomenon to create addictive gameplay that challenges your logical thinking and creativity.
